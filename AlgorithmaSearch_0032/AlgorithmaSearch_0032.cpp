@@ -9,4 +9,8 @@ void input() {
 	while (true) {
 		cout << "Enter the number of element in thearray: ";
 		cin >> n;
+		if ((n > 0) && (n <= 20))
+			break;
+		else
+			cout << "\nArray shoult have minimum 1 and maximum 20 elements.\n\n";
 	}
