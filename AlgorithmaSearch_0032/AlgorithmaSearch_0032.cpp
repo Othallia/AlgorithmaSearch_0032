@@ -19,4 +19,5 @@ void input() {
 	cout << "\n-----------------------\n";
 	cout << "Enter array elements \n";
 	cout << "---------------------\n";
+	for (i = 0; i < n; i++)
 	
