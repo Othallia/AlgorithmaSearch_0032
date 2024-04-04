@@ -60,8 +60,8 @@ void LinearSearch() {
 void display()
 {
 	cout << "Array element are: ";
+	for (i = 0; i < n; i++)
 	
-
 
 
 
